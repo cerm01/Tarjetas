@@ -19,6 +19,13 @@ pivote, y se ordenara por la izquierda y/o por la derecha. mediante funciones qu
 def recorrido(lista_tarjetas):
     pass
 
+"""
+Esta funcion recorre la lista desde el inicio de la lista hasta el pivote asignando -1 los
+elementos que son mayores que el pivote para "eliminarlos"
+"""
+def ordenar_izquierda(lista_tarjetas, pivote):
+    pass
+
 
 def main():
     pass
