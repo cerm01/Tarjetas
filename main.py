@@ -23,7 +23,7 @@ def recorrido(lista_tarjetas):
 Esta funcion recorre la lista desde el inicio de la lista hasta el pivote asignando -1 los
 elementos que son mayores que el pivote para "eliminarlos"
 """
-def ordenar_izquierda(lista_tarjetas, pivote):
+def ordenar_izquierda(lista, pivote):
     pass
 
 
@@ -32,7 +32,17 @@ Esta funcion recorre la lista desde el final de la lista hasta el pivote asignan
 pivote hasta el final asignando -1 a los elementos que son menores que el pivote para
 "eliminarlos".
 """
-def ordenar_derecha(lista_tarjetas, pivote):
+def ordenar_derecha(lista, pivote):
+    pass
+
+
+"""
+Esta funcion imprime la cantiad de elementos de lista de tarjetas "Ordenada" 
+así como la lista de los indices de las tarjetas que fueron no eliminadas y la lista
+de los valores de las tarjetas que no fueron eliminadas.
+"""
+def imprimir(lista):
+    pass
 
 
 def main():
