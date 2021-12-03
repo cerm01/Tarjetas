@@ -13,6 +13,12 @@ def read(archivo):
             lista_tarjetas.append(int(archivo.readline()))
     return lista_tarjetas
 
+"""
+Esta funcion recorre la lista y en cada iteracion un elemento de la lista sera el 
+pivote, y se ordenara por la izquierda y/o por la derecha. mediante funciones que se declaran abajo."""
+def recorrido(lista_tarjetas):
+    pass
+
 
 def main():
     pass
