@@ -27,6 +27,14 @@ def ordenar_izquierda(lista_tarjetas, pivote):
     pass
 
 
+"""
+Esta funcion recorre la lista desde el final de la lista hasta el pivote asignando y del 
+pivote hasta el final asignando -1 a los elementos que son menores que el pivote para
+"eliminarlos".
+"""
+def ordenar_derecha(lista_tarjetas, pivote):
+
+
 def main():
     pass
 
