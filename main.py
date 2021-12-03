@@ -45,6 +45,15 @@ def imprimir(lista):
     pass
 
 
+"""
+En esta funcion guradamos en un archivo "archivo.out" 
+1.- En la primera linea se guarda la cantidad de tarjetas que no fueron eliminadas.
+2.- En las siguientes lineas se guardan los indices de las tarjetas que no fueron eliminadas.
+"""
+def write(lista):
+    pass
+
+
 def main():
     pass
 
