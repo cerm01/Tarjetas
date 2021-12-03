@@ -55,7 +55,9 @@ def write(lista):
 
 
 def main():
-    pass
+    archivo = "archivo.in"
+    lista_tarjetas = read(archivo)
+    
 
 
 if __name__ == '__main__':
